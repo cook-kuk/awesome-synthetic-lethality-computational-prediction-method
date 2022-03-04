@@ -9,6 +9,13 @@ We will review all existing synthetic lethality calculation prediction methods.
 #### Matrix decomposition
 
 
+#### Classical Machine learning 
+[Das, S., Deng, X., Camphausen, K., &amp; Shankavaram, U. (2018, July 28). DISCOVERSL: An R package for multi-omic data driven prediction of synthetic lethality in cancers. OUP Academic. Retrieved March 4, 2022.](https://academic.oup.com/bioinformatics/article/35/4/701/5061158)
+
+[Benstead-Hume, G., Chen, X., Hopkins, S. R., Lane, K. A., Downs, J. A., &amp; Pearl, F. M. G. (n.d.). Predicting synthetic lethal interactions using conserved patterns in protein interaction networks. PLOS Computational Biology. Retrieved March 4, 2022.](https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1006888) 
+
+
+
 #### Graph Nerual Network
 
 [Long, Y., Wu, M., Liu, Y., Zheng, J., Kwoh, C. K., Luo, J., &amp; Li, X. (2021, February 20). Graph contextualized attention network for predicting synthetic lethality in human cancers. OUP Academic. Retrieved March 4, 2022.](https://academic.oup.com/bioinformatics/article/37/16/2432/6145565?login=true)
