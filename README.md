@@ -11,6 +11,7 @@ We will review all existing synthetic lethality calculation prediction methods.
 
 [Tercan, B., Qin, G., Kim, T.-K., Aguilar, B., Kemp, C. J., Chambwe, N., &amp; Shmulevich, I. (2021, January 1). SL-Cloud: A computational resource to support Synthetic Lethal Interaction Discovery. bioRxiv.](https://www.biorxiv.org/content/10.1101/2021.09.18.459450v1.full) 
 
+[Muellner, M. K., Duernberger, G., Ganglberger, F., Kerzendorfer, C., Uras, I. Z., Schoenegger, A., Bagienski, K., Colinge, J., &amp; Nijman, S. M. B. (2014, April 8). Tops: A versatile software tool for statistical analysis and visualization of combinatorial gene-gene and gene-drug interaction screens - BMC Bioinformatics. BioMed Central.](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-15-98)
 
 #### Linear Programming
 [Pratapa, A., Balachandran, S., &amp; Raman, K. (2015, June 17). Fast-SL: An efficient algorithm to identify synthetic lethal sets in metabolic networks. OUP Academic.](https://academic.oup.com/bioinformatics/article/31/20/3299/195638) 
@@ -73,7 +74,7 @@ CSDL: IEEE Computer Society. CSDL | IEEE Computer Society. (n.d.).](https://www.
 [Qi, Y., Ye, P., &amp; Bader, J. S. (2005, December 6). Genetic interaction motif finding by expectation maximization – a novel statistical model for inferring gene modules from synthetic lethality - BMC Bioinformatics. BioMed Central.](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-6-288)
 
 
-[Muellner, M. K., Duernberger, G., Ganglberger, F., Kerzendorfer, C., Uras, I. Z., Schoenegger, A., Bagienski, K., Colinge, J., &amp; Nijman, S. M. B. (2014, April 8). Tops: A versatile software tool for statistical analysis and visualization of combinatorial gene-gene and gene-drug interaction screens - BMC Bioinformatics. BioMed Central.](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-15-98)
+
 
 
 
