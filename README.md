@@ -23,6 +23,8 @@ We will review all existing synthetic lethality calculation prediction methods.
 [Zamanighomi, M., Jain, S. S., Ito, T., Pal, D., Daley, T. P., &amp; Sellers, W. R. (2019, July 12). Gemini: A variational bayesian approach to identify genetic interactions from combinatorial CRISPR screens - genome biology. BioMed Central.](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1745-9)
 
 
+[Liany, H., Jeyasekharan, A., &amp; Rajan, V. (2019, November 29). Predicting synthetic lethal interactions using heterogeneous data sources. OUP Academic.](https://academic.oup.com/bioinformatics/article/36/7/2209/5646644?login=true) 
+
 #### Classical Machine learning 
 [Das, S., Deng, X., Camphausen, K., &amp; Shankavaram, U. (2018, July 28). DISCOVERSL: An R package for multi-omic data driven prediction of synthetic lethality in cancers. OUP Academic. ](https://academic.oup.com/bioinformatics/article/35/4/701/5061158)
 
@@ -76,7 +78,6 @@ CSDL: IEEE Computer Society. CSDL | IEEE Computer Society. (n.d.).](https://www.
 [Li, X.-juan, Mishra, S. K., Wu, M., Zhang, F., &amp; Zheng, J. (2014, April 22). Syn-lethality: An integrative knowledge base of synthetic lethality towards discovery of selective anticancer therapies. BioMed Research International.](https://www.hindawi.com/journals/bmri/2014/196034) 
 
 
-[Liany, H., Jeyasekharan, A., &amp; Rajan, V. (2019, November 29). Predicting synthetic lethal interactions using heterogeneous data sources. OUP Academic.](https://academic.oup.com/bioinformatics/article/36/7/2209/5646644?login=true) 
 
 
 [Liany, H., Jeyasekharan, A., &amp; Rajan, V. (2021, January 1). Aster: A method to predict clinically actionable synthetic lethal genetic interactions. bioRxiv.](https://www.biorxiv.org/content/10.1101/2020.10.27.356717v2) 
