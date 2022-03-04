@@ -6,9 +6,8 @@ We will review all existing synthetic lethality calculation prediction methods.
 
 #### Graph Nerual Network
 
-[Alona Levy-Jurgenson, Xavier Tekpli, Vessela N Kristensen, and Zohar Yakhini. Spatial transcriptomics
-inferred from pathology whole-slide images links tumor heterogeneity to survival in breast and lung
-cancer. Scientific Reports, 10(1):1–11, 2020.](https://www.nature.com/articles/s41598-020-75708-z)
+[Cai, R., Chen, X., Fang, Y., Wu, M., &amp; Hao, Y. (2020, March 28). Dual-dropout graph convolutional network for predicting synthetic lethality in human cancers. OUP Academic. Retrieved March 4, 2022.] (https://academic.oup.com/bioinformatics/article/36/16/4458/5813330?login=true)
+
 
 
 
