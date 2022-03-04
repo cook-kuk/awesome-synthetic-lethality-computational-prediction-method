@@ -36,6 +36,7 @@ CSDL: IEEE Computer Society. CSDL | IEEE Computer Society. (n.d.).](https://www.
 
 [Kegel, B. D., Quinn, N., Thompson, N. A., Adams, D. J., &amp; Ryan, C. J. (2021, September 15). Comprehensive prediction of robust synthetic lethality between paralog pairs in cancer cell lines. Cell Systems.](https://www.sciencedirect.com/science/article/pii/S240547122100329X) 
 
+[Benfatto, S., Serçin, &amp;O., Dejure, F. R., Abdollahi, A., Zenke, F. T., &amp; Mardin, B. R. (2021, August 28). Uncovering cancer vulnerabilities by machine learning prediction of synthetic lethality - molecular cancer. BioMed Central.](https://molecular-cancer.biomedcentral.com/articles/10.1186/s12943-021-01405-8)
 
 
 #### Multi layer perceptron(Fully-Connected layers)
@@ -71,7 +72,6 @@ CSDL: IEEE Computer Society. CSDL | IEEE Computer Society. (n.d.).](https://www.
 
 [Muellner, M. K., Duernberger, G., Ganglberger, F., Kerzendorfer, C., Uras, I. Z., Schoenegger, A., Bagienski, K., Colinge, J., &amp; Nijman, S. M. B. (2014, April 8). Tops: A versatile software tool for statistical analysis and visualization of combinatorial gene-gene and gene-drug interaction screens - BMC Bioinformatics. BioMed Central.](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-15-98)
 
-[Benfatto, S., Serçin, &amp;O., Dejure, F. R., Abdollahi, A., Zenke, F. T., &amp; Mardin, B. R. (2021, August 28). Uncovering cancer vulnerabilities by machine learning prediction of synthetic lethality - molecular cancer. BioMed Central.](https://molecular-cancer.biomedcentral.com/articles/10.1186/s12943-021-01405-8)
 
 [Benstead-Hume, G., Chen, X., Hopkins, S. R., Lane, K. A., Downs, J. A., &amp; Pearl, F. M. G. (n.d.). Predicting synthetic lethal interactions using conserved patterns in protein interaction networks. PLOS Computational Biology.](https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1006888) 
 
