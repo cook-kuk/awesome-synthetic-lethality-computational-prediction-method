@@ -6,6 +6,8 @@ We will review all existing synthetic lethality calculation prediction methods.
 [We used a citationmachin to extract citation information from the papers.](https://www.citationmachine.net/apa/cite-a-website)
 
 
+#### Matrix decomposition
+
 
 #### Graph Nerual Network
 
