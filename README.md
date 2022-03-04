@@ -52,7 +52,8 @@ We will review all existing synthetic lethality calculation prediction methods.
 [Benstead-Hume, G., Chen, X., Hopkins, S. R., Lane, K. A., Downs, J. A., &amp; Pearl, F. M. G. (n.d.). Predicting synthetic lethal interactions using conserved patterns in protein interaction networks. PLOS Computational Biology.](https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1006888) 
 
 
-[CSDL: IEEE Computer Society. CSDL | IEEE Computer Society. (n.d.).](https://www.computer.org/csdl/journal/tb/2020/03/08684286/1kepIz6jzDq) 
+[SL2MF: Predicting Synthetic Lethality in Human Cancers via Logistic Matrix Factorization
+CSDL: IEEE Computer Society. CSDL | IEEE Computer Society. (n.d.).](https://www.computer.org/csdl/journal/tb/2020/03/08684286/1kepIz6jzDq) 
 
 [Kegel, B. D., Quinn, N., Thompson, N. A., Adams, D. J., &amp; Ryan, C. J. (2021, September 15). Comprehensive prediction of robust synthetic lethality between paralog pairs in cancer cell lines. Cell Systems.](https://www.sciencedirect.com/science/article/pii/S240547122100329X) 
 
