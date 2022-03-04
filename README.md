@@ -13,6 +13,11 @@ We will review all existing synthetic lethality calculation prediction methods.
 
 [Muellner, M. K., Duernberger, G., Ganglberger, F., Kerzendorfer, C., Uras, I. Z., Schoenegger, A., Bagienski, K., Colinge, J., &amp; Nijman, S. M. B. (2014, April 8). Tops: A versatile software tool for statistical analysis and visualization of combinatorial gene-gene and gene-drug interaction screens - BMC Bioinformatics. BioMed Central.](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-15-98)
 
+
+[Colic, M., Wang, G., Zimmermann, M., Mascall, K., McLaughlin, M., Bertolet, L., Lenoir, W. F., Moffat, J., Angers, S., Durocher, D., &amp; Hart, T. (2019, August 22). Identifying chemogenetic interactions from CRISPR screens with Drugz - Genome Medicine. BioMed Central.](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-019-0665-3)
+
+
+
 #### Linear Programming
 [Pratapa, A., Balachandran, S., &amp; Raman, K. (2015, June 17). Fast-SL: An efficient algorithm to identify synthetic lethal sets in metabolic networks. OUP Academic.](https://academic.oup.com/bioinformatics/article/31/20/3299/195638) 
 
@@ -65,7 +70,6 @@ CSDL: IEEE Computer Society. CSDL | IEEE Computer Society. (n.d.).](https://www.
 #### Not yet
 
 
-[Colic, M., Wang, G., Zimmermann, M., Mascall, K., McLaughlin, M., Bertolet, L., Lenoir, W. F., Moffat, J., Angers, S., Durocher, D., &amp; Hart, T. (2019, August 22). Identifying chemogenetic interactions from CRISPR screens with Drugz - Genome Medicine. BioMed Central.](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-019-0665-3)
 
 
 [Ansari, A. A., Park, I., Kim, I., Park, S., Ahn, S.-M., &amp; Lee, J.-lyun. (2018, October 3). Genomics of drug sensitivity in bladder cancer: An integrated resource for pharmacogenomic analysis in bladder cancer - BMC Medical Genomics. BioMed Central.](https://bmcmedgenomics.biomedcentral.com/articles/10.1186/s12920-018-0406-2) 
