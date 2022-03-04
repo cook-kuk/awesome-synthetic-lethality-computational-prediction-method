@@ -20,7 +20,7 @@ We will review all existing synthetic lethality calculation prediction methods.
 [Benstead-Hume, G., Chen, X., Hopkins, S. R., Lane, K. A., Downs, J. A., &amp; Pearl, F. M. G. (n.d.). Predicting synthetic lethal interactions using conserved patterns in protein interaction networks. PLOS Computational Biology.](https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1006888) 
 
 
-#### Simple Mulit layer perceptron
+#### Multi layer perceptron(Fully-Connected layers)
 
 
 [Wan, F., Li, S., Tian, T., Lei, Y., Zhao, D., &amp; Zeng, J. (1AD, January 1). EXP2SL: A machine learning framework for cell-line-specific synthetic lethality prediction. Frontiers.](https://www.frontiersin.org/articles/10.3389/fphar.2020.00112/full) 
