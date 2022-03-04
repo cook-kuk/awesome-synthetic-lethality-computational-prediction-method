@@ -12,7 +12,8 @@ We will review all existing synthetic lethality calculation prediction methods.
 [Tercan, B., Qin, G., Kim, T.-K., Aguilar, B., Kemp, C. J., Chambwe, N., &amp; Shmulevich, I. (2021, January 1). SL-Cloud: A computational resource to support Synthetic Lethal Interaction Discovery. bioRxiv.](https://www.biorxiv.org/content/10.1101/2021.09.18.459450v1.full) 
 
 
-
+#### Linear Programming
+[Pratapa, A., Balachandran, S., &amp; Raman, K. (2015, June 17). Fast-SL: An efficient algorithm to identify synthetic lethal sets in metabolic networks. OUP Academic.](https://academic.oup.com/bioinformatics/article/31/20/3299/195638) 
 
 
 
@@ -81,7 +82,6 @@ CSDL: IEEE Computer Society. CSDL | IEEE Computer Society. (n.d.).](https://www.
 [Liany, H., Jeyasekharan, A., &amp; Rajan, V. (2021, January 1). Aster: A method to predict clinically actionable synthetic lethal genetic interactions. bioRxiv.](https://www.biorxiv.org/content/10.1101/2020.10.27.356717v2) 
 
 
-[Pratapa, A., Balachandran, S., &amp; Raman, K. (2015, June 17). Fast-SL: An efficient algorithm to identify synthetic lethal sets in metabolic networks. OUP Academic.](https://academic.oup.com/bioinformatics/article/31/20/3299/195638) 
 
 
 
