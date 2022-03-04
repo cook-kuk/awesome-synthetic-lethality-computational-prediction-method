@@ -3,7 +3,7 @@
 
 We will review all existing synthetic lethality calculation prediction methods.
 
-We used citationmachine to extract informatain of paper.
+[We used citationmachine to extract citation informatain of paper.](https://www.citationmachine.net/apa/cite-a-website)
 
 
 
