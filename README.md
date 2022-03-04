@@ -1,6 +1,7 @@
 # Synthetic-Lethality-computational-prediction-method
-I will review all existing Synthetic Lethality computational prediction method.
 
+
+We will review all existing synthetic lethality calculation prediction methods.
 
 
 #### Graph Nerual Network
