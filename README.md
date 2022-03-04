@@ -25,6 +25,9 @@ We will review all existing synthetic lethality calculation prediction methods.
 
 [Liany, H., Jeyasekharan, A., &amp; Rajan, V. (2019, November 29). Predicting synthetic lethal interactions using heterogeneous data sources. OUP Academic.](https://academic.oup.com/bioinformatics/article/36/7/2209/5646644?login=true) 
 
+[SL2MF: Predicting Synthetic Lethality in Human Cancers via Logistic Matrix Factorization
+CSDL: IEEE Computer Society. CSDL | IEEE Computer Society. (n.d.).](https://www.computer.org/csdl/journal/tb/2020/03/08684286/1kepIz6jzDq) 
+
 #### Classical Machine learning 
 [Das, S., Deng, X., Camphausen, K., &amp; Shankavaram, U. (2018, July 28). DISCOVERSL: An R package for multi-omic data driven prediction of synthetic lethality in cancers. OUP Academic. ](https://academic.oup.com/bioinformatics/article/35/4/701/5061158)
 
@@ -69,8 +72,6 @@ We will review all existing synthetic lethality calculation prediction methods.
 [Benstead-Hume, G., Chen, X., Hopkins, S. R., Lane, K. A., Downs, J. A., &amp; Pearl, F. M. G. (n.d.). Predicting synthetic lethal interactions using conserved patterns in protein interaction networks. PLOS Computational Biology.](https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1006888) 
 
 
-[SL2MF: Predicting Synthetic Lethality in Human Cancers via Logistic Matrix Factorization
-CSDL: IEEE Computer Society. CSDL | IEEE Computer Society. (n.d.).](https://www.computer.org/csdl/journal/tb/2020/03/08684286/1kepIz6jzDq) 
 
 [Kegel, B. D., Quinn, N., Thompson, N. A., Adams, D. J., &amp; Ryan, C. J. (2021, September 15). Comprehensive prediction of robust synthetic lethality between paralog pairs in cancer cell lines. Cell Systems.](https://www.sciencedirect.com/science/article/pii/S240547122100329X) 
 
