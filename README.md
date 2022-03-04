@@ -6,6 +6,14 @@ We will review all existing synthetic lethality calculation prediction methods.
 [We used a citationmachin to extract citation information from the papers.](https://www.citationmachine.net/apa/cite-a-website)
 
 #### Statistical analysis
+[Sinha, S., Thomas, D., Chan, S., Gao, Y., Brunen, D., Torabi, D., Reinisch, A., Hernandez, D., Chan, A., Rankin, E. B., Bernards, R., Majeti, R., &amp; Dill, D. L. (2017, May 31). Systematic discovery of mutation-specific synthetic lethals by mining pan-cancer human primary tumor data. Nature News.](https://www.nature.com/articles/ncomms15580) 
+
+
+[Tercan, B., Qin, G., Kim, T.-K., Aguilar, B., Kemp, C. J., Chambwe, N., &amp; Shmulevich, I. (2021, January 1). SL-Cloud: A computational resource to support Synthetic Lethal Interaction Discovery. bioRxiv.](https://www.biorxiv.org/content/10.1101/2021.09.18.459450v1.full) 
+
+
+
+
 
 
 #### Matrix decomposition
@@ -74,16 +82,6 @@ CSDL: IEEE Computer Society. CSDL | IEEE Computer Society. (n.d.).](https://www.
 
 
 [Pratapa, A., Balachandran, S., &amp; Raman, K. (2015, June 17). Fast-SL: An efficient algorithm to identify synthetic lethal sets in metabolic networks. OUP Academic.](https://academic.oup.com/bioinformatics/article/31/20/3299/195638) 
-
-
-[Sinha, S., Thomas, D., Chan, S., Gao, Y., Brunen, D., Torabi, D., Reinisch, A., Hernandez, D., Chan, A., Rankin, E. B., Bernards, R., Majeti, R., &amp; Dill, D. L. (2017, May 31). Systematic discovery of mutation-specific synthetic lethals by mining pan-cancer human primary tumor data. Nature News.](https://www.nature.com/articles/ncomms15580) 
-
-
-[Tercan, B., Qin, G., Kim, T.-K., Aguilar, B., Kemp, C. J., Chambwe, N., &amp; Shmulevich, I. (2021, January 1). SL-Cloud: A computational resource to support Synthetic Lethal Interaction Discovery. bioRxiv.](https://www.biorxiv.org/content/10.1101/2021.09.18.459450v1.full) 
-
-
-
-
 
 
 
