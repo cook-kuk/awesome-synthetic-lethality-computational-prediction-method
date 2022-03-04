@@ -1,9 +1,19 @@
 # Synthetic-Lethality-computational-prediction-method
 
 
+
+
+
+
 We will review all existing synthetic lethality calculation prediction methods.
 
 [We used a citationmachin to extract citation information from the papers.](https://www.citationmachine.net/apa/cite-a-website)
+
+## DataSet
+
+
+## Computational Methods
+
 
 #### Statistical analysis
 [Sinha, S., Thomas, D., Chan, S., Gao, Y., Brunen, D., Torabi, D., Reinisch, A., Hernandez, D., Chan, A., Rankin, E. B., Bernards, R., Majeti, R., &amp; Dill, D. L. (2017, May 31). Systematic discovery of mutation-specific synthetic lethals by mining pan-cancer human primary tumor data. Nature News.](https://www.nature.com/articles/ncomms15580) 
