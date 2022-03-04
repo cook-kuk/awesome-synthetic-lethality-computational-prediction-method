@@ -34,6 +34,10 @@ CSDL: IEEE Computer Society. CSDL | IEEE Computer Society. (n.d.).](https://www.
 [Benstead-Hume, G., Chen, X., Hopkins, S. R., Lane, K. A., Downs, J. A., &amp; Pearl, F. M. G. (n.d.). Predicting synthetic lethal interactions using conserved patterns in protein interaction networks. PLOS Computational Biology.](https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1006888) 
 
 
+[Kegel, B. D., Quinn, N., Thompson, N. A., Adams, D. J., &amp; Ryan, C. J. (2021, September 15). Comprehensive prediction of robust synthetic lethality between paralog pairs in cancer cell lines. Cell Systems.](https://www.sciencedirect.com/science/article/pii/S240547122100329X) 
+
+
+
 #### Multi layer perceptron(Fully-Connected layers)
 
 
@@ -72,8 +76,6 @@ CSDL: IEEE Computer Society. CSDL | IEEE Computer Society. (n.d.).](https://www.
 [Benstead-Hume, G., Chen, X., Hopkins, S. R., Lane, K. A., Downs, J. A., &amp; Pearl, F. M. G. (n.d.). Predicting synthetic lethal interactions using conserved patterns in protein interaction networks. PLOS Computational Biology.](https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1006888) 
 
 
-
-[Kegel, B. D., Quinn, N., Thompson, N. A., Adams, D. J., &amp; Ryan, C. J. (2021, September 15). Comprehensive prediction of robust synthetic lethality between paralog pairs in cancer cell lines. Cell Systems.](https://www.sciencedirect.com/science/article/pii/S240547122100329X) 
 
 
 [Li, X.-juan, Mishra, S. K., Wu, M., Zhang, F., &amp; Zheng, J. (2014, April 22). Syn-lethality: An integrative knowledge base of synthetic lethality towards discovery of selective anticancer therapies. BioMed Research International.](https://www.hindawi.com/journals/bmri/2014/196034) 
