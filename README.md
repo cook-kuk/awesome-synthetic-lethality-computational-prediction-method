@@ -1,4 +1,4 @@
-# Synthetic-Lethality-computational-prediction-method
+# awesome-synthetic-lethality-computational-prediction-method
 
 
 
